@@ -10,3 +10,4 @@
 Use  .venv virtual environment  
 use rl-course/lecture3 
 <b> python main.py</b>
+![image](https://user-images.githubusercontent.com/24397487/218248155-94c22db4-6cba-4f4f-b0d2-074ba1ce6b3f.png)
