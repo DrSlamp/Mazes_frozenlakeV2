@@ -8,3 +8,5 @@
 \Ubuntu\home\pau\gym_environments\gym_environments\envs\gridworlds\v2\frozen_lake
 
 Use  .venv virtual environment  
+use rl-course/lecture3 
+<b> python main.py</b>
